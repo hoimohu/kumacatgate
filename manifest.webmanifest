@@ -1,0 +1,21 @@
+{
+    "name": "Kumacat Gate - くまキャットゲート",
+    "short_name": "くまキャットゲート",
+    "description": "気まぐれで更新します",
+    "icons": [
+        {
+            "src": "https:\/\/hoimohu.github.io\/kumacatgate\/favicon.ico",
+            "sizes": "256x256",
+            "type": "image\/vnd.microsoft.icon"
+        },
+        {
+            "src": "https:\/\/hoimohu.github.io\/kumacatgate\/img\/icon.png",
+            "sizes": "512x512",
+            "type": "image\/png"
+        }
+    ],
+    "start_url": "https:\/\/hoimohu.github.io\/kumacatgate\/",
+    "theme_color": "#7a72c5",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
